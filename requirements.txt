@@ -1,4 +1,5 @@
-Flask
-gunicorn
+streamlit
 scikit-learn
 numpy
+joblib
+pandas
